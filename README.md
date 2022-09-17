@@ -20,4 +20,3 @@ ___
   <a href="http://forthebadge.com/"><img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="forthebadge"/></a>
 </p>
 <br>
-</p>
